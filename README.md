@@ -114,7 +114,7 @@ Install the app: `flatpak --user install tutorial-repo org.flatpak.MyApp`
 
 ### 6. Set GL Env and run your app
 
-On the pinephone to run the app run the following: `env GDK_GL gles
+On the pinephone to run the app run the following: `env GDK_GL=gles
 flutter_pinephone_example` and your app should load.
 
 
