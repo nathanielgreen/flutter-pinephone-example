@@ -26,6 +26,8 @@ v21.06.
   - Set up flathub as a flatpak remote: `flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
     - See https://flatpak.org/setup/ for OS specific instructions
   - Install the flatpak gnome runtime: `flatpak install flathub org.gnome.Platform//40 org.gnome.Sdk//40`
+- Flatpak installed on your Pinephone
+  - If on postmarketOS run `sudo apk add flatpak`
 
 ## Instructions
 
