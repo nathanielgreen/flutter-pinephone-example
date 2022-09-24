@@ -88,7 +88,7 @@ modules:
       - ln -s /app/flutter_pinephone_example/flutter_pinephone_example /app/bin/flutter_pinephone_example
     sources:
       - type: archive
-        path: ./file.tar.gz
+        path: ./build.tar.gz
         dest: flutter_pinephone_example
 ```
 
